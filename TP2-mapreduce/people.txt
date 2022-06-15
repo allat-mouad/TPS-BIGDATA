@@ -1,0 +1,5 @@
+ahmed,slimani,informatique,ingenieur,20000
+saad,tazi,finance,gestinaire,10000
+hajar,saadani,informatique,manager,24000
+karim,rmili,finance,comptable,9000
+khouala,naji,informatique,ingenieur,20000
